@@ -53,7 +53,7 @@ Original COBRAS code: https://github.com/ML-KULeuven/cobras
 
 ## Contact
 
-If you have any questions, feel free to raise an issue or contact me at my email: cjw71770207@foxmail.com.
+If you have any questions, feel free to raise an issue or contact me at my email: lkx.bbxc@gmail.com.
 
 ## License
 
