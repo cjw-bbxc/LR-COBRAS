@@ -1,5 +1,7 @@
 ======================================
+
 Logical Reasoning-Enhanced Interactive Clustering: An Efficient Algorithm for Large-Scale Datasets
+
 ======================================
 
 Authors: Ning Zhou, Jiawei Cao
@@ -18,3 +20,10 @@ reasoning to optimize interactive clustering, particularly for complex and large
 implementation is available on https://github.com/cjw-bbxc/LR-COBRAS.
 
 
+
+## Datasets
+Caltech 256: https://www.kaggle.com/datasets/jessicali9530/caltech256
+
+CIFAR100: https://www.kaggle.com/datasets/melikechan/cifar100/data
+
+ImageNet: https://www.kaggle.com/datasets/lijiyu/imagenet
