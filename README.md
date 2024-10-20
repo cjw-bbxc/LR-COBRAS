@@ -1,12 +1,18 @@
-======================================
+# Logical Reasoning-Enhanced Interactive Clustering: An Efficient Algorithm for Large-Scale Datasets
 
-Logical Reasoning-Enhanced Interactive Clustering: An Efficient Algorithm for Large-Scale Datasets
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-======================================
+## Table of Contents
 
-Authors: Ning Zhou, Jiawei Cao
+- [Background](#background)
+- [Install](#install)
+- [Datasets](#datasets)
+- [Usage](#usage)
+- [Related Efforts](#related-efforts)
+- [Contact](#contact)
+- [License](#license)
 
-## Abstract
+## Background
 
 To address the challenges of high user involvement and low time efficiency in handling large datasets, we propose an
 enhanced interactive clustering algorithm called LR-COBRAS, which integrates logical reasoning. By applying logical
@@ -19,11 +25,36 @@ efficiency while maintaining high clustering quality. This work presents a novel
 reasoning to optimize interactive clustering, particularly for complex and large-scale datasets.The source code for our
 implementation is available on https://github.com/cjw-bbxc/LR-COBRAS.
 
+## Install
 
+We are using Python 3, and for specific environment configuration, please refer to `environment.yml`. Additionally, for
+using Prolog, we are utilizing SWI-Prolog. Due to version differences, please follow the guidance on the official
+website for downloading and installation.
 
 ## Datasets
+
 Caltech 256: https://www.kaggle.com/datasets/jessicali9530/caltech256
 
 CIFAR100: https://www.kaggle.com/datasets/melikechan/cifar100/data
 
 ImageNet: https://www.kaggle.com/datasets/lijiyu/imagenet
+
+## Usage
+
+After installing and configuring all environments, please use the following command to run the program example
+
+```shell
+cobras_ts --visual --images datasets/test-cufar
+```
+
+## Related Efforts
+
+Original COBRAS code: https://github.com/ML-KULeuven/cobras
+
+## Contact
+
+If you have any questions, feel free to raise an issue or contact me at my email: cjw71770207@foxmail.com.
+
+## License
+
+[MIT](LICENSE) © Richard Littauer
