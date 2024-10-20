@@ -1,3 +1,9 @@
+import os
+from threading import Lock
+
+from pyswip import Prolog
+
+
 class PrologUtils:
 
     def __init__(self):

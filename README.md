@@ -57,4 +57,4 @@ If you have any questions, feel free to raise an issue or contact me at my email
 
 ## License
 
-[MIT](LICENSE) © Richard Littauer
+[MIT](LICENSE)
